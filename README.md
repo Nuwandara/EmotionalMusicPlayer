@@ -102,8 +102,4 @@ The system simulates real playback behavior:
 
 ```
 
----
 
-Would you like me to include a **README diagram (architecture chart)** using ASCII or markdown blocks (to visually show how each layer connects: AI → Strategy → Facade → Player)?  
-It makes your README even more professional and eye-catching on GitHub.
-```
