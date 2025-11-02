@@ -96,10 +96,6 @@ The system simulates real playback behavior:
 
 ---
 
-## ⭐ GitHub Tagline
 
-> *A simulation of smart music emotion recognition — powered by clean architecture and strong design principles.*
-
-```
 
 
